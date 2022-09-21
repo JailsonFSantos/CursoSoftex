@@ -37,8 +37,4 @@ def repete():
     else:
         repete()
 
-
-def stop():
-    while True:
-        break
 calculate()
